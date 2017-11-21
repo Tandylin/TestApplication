@@ -2,7 +2,6 @@ package com.example.lin.testapplication.activity;
 
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.example.lin.testapplication.R;
 import com.example.lin.testapplication.base.BaseActivity;
